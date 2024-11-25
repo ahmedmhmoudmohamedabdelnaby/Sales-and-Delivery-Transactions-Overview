@@ -3,7 +3,7 @@ Dataset Overview
 The dataset contains sales and delivery information, which includes the following columns:
 
 Sold to Party No.: Customer ID.
-Customer Name: Name of the customer (e.g., هاني مظلوم).
+Customer Name: Name of the customer (e.g.).
 Delivery No.: Unique identifier for the delivery.
 Post Goods Issue Date: The date the goods were issued or delivered.
 Material Description: Description of the product sold.
